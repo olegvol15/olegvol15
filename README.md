@@ -51,15 +51,4 @@ I value maintainable code, thoughtful UI/UX decisions, and solutions that delive
 - Performance-oriented development and optimization  
 - Continuous learning and improvement through real-world projects
 
----
 
-### GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-Committed to building reliable products through thoughtful engineering and collaboration.
-</p>
