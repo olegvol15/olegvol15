@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Oleh</h1>
-<h3 align="center">Frontend Developer from Ukraine</h3>
+<h3 align="center">FullStack Developer from Ukraine</h3>
 
 <p align="center">
 I design and build modern, performant, and scalable web applications with a strong focus on user experience and clean architecture.
